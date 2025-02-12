@@ -134,7 +134,7 @@ async def main():
             await client.send_message(channel, '/add')
             pause_with_message("Mensagem /add enviada com sucesso!", 5)
             
-            pause_with_message(f"Grupo {group_name} configurado com sucesso!", 10)
+            pause_with_message(f"Grupo {group_name} configurado com sucesso!", 50)
             print(f"\n{'='*50}")
             
         except Exception as e:
