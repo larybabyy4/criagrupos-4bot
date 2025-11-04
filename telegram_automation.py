@@ -27,6 +27,16 @@ BOTS = [
     os.getenv('BOT_USERNAME_8'),
     os.getenv('BOT_USERNAME_9'),
     os.getenv('BOT_USERNAME_10'),
+    os.getenv('BOT_USERNAME_11'),
+    os.getenv('BOT_USERNAME_12'),
+    os.getenv('BOT_USERNAME_13'),
+    os.getenv('BOT_USERNAME_14'),
+    os.getenv('BOT_USERNAME_15'),
+    os.getenv('BOT_USERNAME_16'),
+    os.getenv('BOT_USERNAME_17'),
+    os.getenv('BOT_USERNAME_18'),
+    os.getenv('BOT_USERNAME_19'),
+    os.getenv('BOT_USERNAME_20'),
 ]
 GROUP_PHOTO = os.getenv('GROUP_PHOTO')
 GROUP_DESCRIPTION = os.getenv('GROUP_DESCRIPTION')
